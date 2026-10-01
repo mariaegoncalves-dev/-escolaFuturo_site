@@ -1,0 +1,90 @@
+header img {
+    display: block; 
+  margin: 30px auto;
+  width: 500px;
+}
+
+header {
+  background-color: #0F4C5C;
+  color: rgb(255, 255, 255);
+  text-align: center; 
+  padding: 7px;
+  margin-bottom: 15px;
+}
+
+nav{
+  margin-top: 10px;
+
+}
+
+nav a{
+  display: inline-block;
+  background-color:#F4A261;
+  color:#1F2937;
+  padding: 12px 20px;
+  border-radius: 10px;
+  margin:0px 5px;
+  text-decoration: none;
+  margin-right: 7px;
+  margin-bottom: 7px;
+}
+
+#btn-sobre{
+      background-color:   #0F4C5C;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 10px;
+  display: block; 
+  width: 200px;
+  text-align: center;
+  margin: 0px auto;
+  margin-top: 15px;
+  text-decoration: none;
+}
+
+
+main h2{
+  color: #0F4C5C;
+  text-align: center;
+
+}
+
+main p{
+  text-align: center;
+
+}
+
+.card{
+   margin-bottom: 10px;
+    border: 5px solid  #1F2937;
+    background-color:  #ffffff;
+    width: 700px;
+    margin: 0px auto;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.card h1{
+  color:#2C7A7B;
+}
+
+
+ main{
+  margin-bottom: 10px;
+    border: 2px solid  #1F2937;
+    background-color:  #FFF7ED;;
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 20px;
+    width: 800px;
+    margin: 0px auto;
+
+
+}
+
+.card img{
+    display: block; 
+  margin: 30px auto;
+  width: 500px;
+}

@@ -1,0 +1,72 @@
+header {
+  background-color: #0F4C5C;
+  color: rgb(255, 255, 255);
+  text-align: center; 
+  padding: 7px;
+}
+
+header img {
+    display: block; 
+  margin: 30px auto;
+  width: 500px;
+}
+
+header p{
+    color:#F4A261; ;
+}
+
+header h5{
+  color: rgb(255, 255, 255);
+}
+nav{
+  margin-top: 10px;
+
+}
+
+nav a{
+  display: inline-block;
+  background-color:#F4A261;
+  color:#1F2937;
+  padding: 12px 20px;
+  border-radius: 10px;
+  margin:0px 5px;
+  text-decoration: none;
+  margin-right: 7px;
+  margin-bottom: 7px;
+}
+
+.apresentacao-escola h1{
+    color: #2C7A7B;
+    text-align: center;
+}
+
+.apresentacao-escola img{
+    display: block; 
+  margin: 10px auto;
+  width: 100%;
+}
+
+.apresentacao-escola{
+    margin-bottom: 10px;
+    border: 5px solid  #1F2937;
+    background-color: #FFF7ED;
+    width: 750px;
+    margin: 0px auto;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+#btn-escola{
+      background-color:  #F4A261;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 10px;
+  display: block; 
+  width: 200px;
+  text-align: center;
+  margin: 0px auto;
+  margin-top: 15px;
+  text-decoration: none;
+}
+
